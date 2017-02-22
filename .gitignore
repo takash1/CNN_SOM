@@ -4,3 +4,4 @@
 GTZAN/spectrogram/
 GTZAN/gtzan_train_lmdb/
 GTZAN/gtzan_test_lmdb/
+model/result
