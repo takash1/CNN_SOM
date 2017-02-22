@@ -1,6 +1,6 @@
 # GTZANデータセット
 
-## genres
+## genresフォルダに解凍
 - 音楽データセット [GTZAN Genre Collection](http://marsyasweb.appspot.com/download/data_sets/)
 
 ## au2wav.py
