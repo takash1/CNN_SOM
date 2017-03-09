@@ -14,6 +14,7 @@ argvs = sys.argv
 
 if len(argvs) != 3:
     print 'Wrong number of arguments'
+    sys.exit(1)
 
 dst_trim = 'trim/'
 if not os.path.isdir(dst_trim):
