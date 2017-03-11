@@ -2,10 +2,13 @@
 
 X JAPANの楽曲をConvolutional Neural Network(CNN)とSelf-Organizing Map(SOM)を用いて可視化する。
 
+See [Jupyter Notebook](SOM/feature_extraction.ipynb)
+
 ## 環境
 - Python2.7
 - Caffe
 - R
+- SoX
 
 ## CNNの学習
 - 音楽データセット:GTZAN Genre Collection
